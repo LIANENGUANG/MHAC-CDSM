@@ -55,7 +55,11 @@ pip install -r requirements.txt
 
 ## Model Architecture
 
+<<<<<<< HEAD
 <img src="image/model_architecture.tiff" alt="model_architecture" style="zoom: 67%;" />
+=======
+<img src="../../Typora/model_architecture.png" alt="model_architecture" style="zoom:67%;" />
+>>>>>>> 013a718 (Add model architecture image and update README)
 
 The MHAC-CDSM model consists of the following components:
 
@@ -73,7 +77,7 @@ The FCNN-CDSM model serves as a baseline model for comparison.
 
 This section presents the performance comparison between our proposed MHAC-CDSM model and the baseline model, FCNN-CDSM. We evaluate the models using various machine learning algorithms, including K-Nearest Neighbors (KNN), Random Forest (RF), XGBoost, CatBoost, Neural Network (NN), and Convolutional Neural Network (CNN). The performance is measured using several metrics, such as Accuracy, Macro Precision, Micro Precision, Macro Recall, Micro Recall, Macro F1-score, and Micro F1-score.
 
-![model_comparison](../../Typora/model_comparison-5610096.tiff)
+![model_comparison](../../Typora/model_comparison.png)
 
 ### FCNN-CDSM (Baseline Model)
 
