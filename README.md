@@ -55,7 +55,7 @@ pip install -r requirements.txt
 
 ## Model Architecture
 
-![combined_image](../../Typora/combined_image.png)
+![combined_image](image/combined_image.png)
 
 The MHAC-CDSM model consists of the following components:
 
