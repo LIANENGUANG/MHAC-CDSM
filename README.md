@@ -55,7 +55,9 @@ pip install -r requirements.txt
 
 ## Model Architecture
 
-<img src="image/model_architecture.png" alt="model_architecture" style="zoom:67%;" />
+<center>
+  <img src="image/model_architecture.png" alt="model_architecture" style="zoom:67%;" />
+</center>
 
 The MHAC-CDSM model consists of the following components:
 
